@@ -26,9 +26,14 @@ Each algorithm's time complexity is analyzed in terms of:
 
 The Big O analysis is detailed in the corresponding files labeled `0-O`, `1-O`, `2-O`, and `3-O`.
 
-## Usage 🧑‍💻
+## ⚙️ How to Compile and Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/saadfahmi/sorting_algorithms.git
    cd sorting_algorithms
+   Compile any of the programs:
+   gcc -Wall -Wextra -Werror -pedantic <file_name>.c -o <output_name>
+   ./<output_name>
+
