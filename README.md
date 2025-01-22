@@ -30,5 +30,5 @@ The Big O analysis is detailed in the corresponding files labeled `0-O`, `1-O`, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/sorting_algorithms.git
+   git clone https://github.com/saadfahmi/sorting_algorithms.git
    cd sorting_algorithms
